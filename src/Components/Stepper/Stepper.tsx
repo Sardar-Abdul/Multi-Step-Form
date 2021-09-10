@@ -8,7 +8,7 @@ import Review from '../Review/Review';
 
 
 function getSteps() {
-  return ['Provide a valid Email and Password', 'Tell us about yourself', 'Review your info'];
+  return ['Email & Password', 'Details', 'Review your info'];
 }
 
 function getStepContent(stepIndex : Number,setStep:any,setFormValues:any,formValues:any) {
