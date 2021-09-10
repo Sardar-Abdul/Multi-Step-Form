@@ -1,0 +1,13 @@
+.review{
+    text-align: left;
+    margin: 25px;
+}
+.review-item{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(94, 94, 94);
+    margin: 25px;
+}
+.review-btn-grp{
+    justify-content: space-between;
+    display: flex;
+}
